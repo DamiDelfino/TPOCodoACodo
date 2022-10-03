@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    font-family: 'Lalezar', cursive; 
+    
+
+}
+body{
+    background-image: url(https://www.parqueygrama.com/wp-content/uploads/2018/02/medidas-reglamentarias-para-canchas-de-futbol-5-6-7-8-9-11.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    
+    padding: 0%;
+}
+img{
+    height: auto;
+    width: 21rem;
+    margin-left: 13px;
+    position: absolute;
+    
+    
+}
+video{
+    width: 100%;
+    margin-bottom: 0%;
+}
+nav{
+    text-align: center;
+    height: 80px;
+    background-image: linear-gradient(to right, rgb(241, 224, 224) 2%, #efaab7 2% , #f6c7c4 2%, #ff867a 10%, #f1a79f 21%, #96382e 52%, #7a2636 78%, #390518 100%);
+    margin: 0%;
+    padding: 0%;
+}
+li, a{
+    text-decoration: none;
+    display: inline;
+    padding: 50px;
+    padding-top: 0%;
+    padding-bottom: 0px;
+    font-size: 2em;
+    text-transform: none;
+    color: black;
+    
+}
+
